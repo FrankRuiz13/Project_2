@@ -28,7 +28,7 @@
   }
 
   body {
-      background-image: linear-gradient(120deg, goldenrod 25%, yellowgreen 35%, black 40%);
+      background-image: linear-gradient(130deg, goldenrod 25%, yellowgreen 35%, black 40%);
   }
   
 .container {
@@ -45,7 +45,7 @@
 }
 
 .main--footer {
-    background-image: linear-gradient(120deg, white 0%, whitesmoke 100%);
+    background: white;
     text-align: center;
 }
 
