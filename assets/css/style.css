@@ -44,6 +44,18 @@
     height: 300px;
 }
 
+button {
+    background: black;
+    margin: 10px;
+    color: white;
+}
+
+button:hover,
+button:active {
+    cursor: pointer;
+    background: firebrick;
+}
+
 .main--footer {
     background: white;
     text-align: center;
